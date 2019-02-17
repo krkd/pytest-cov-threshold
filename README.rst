@@ -18,7 +18,7 @@ pytest-cov-threshold
     :target: https://ci.appveyor.com/project/krkd/pytest-cov-threshold/branch/master
     :alt: See Build Status on AppVeyor
 
-Allows to define coverage tthreshold for a module/packet
+Allows to define coverage threshold for a module/packet
 
 ----
 

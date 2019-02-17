@@ -1,5 +1,5 @@
 site_name: pytest-cov-threshold
-site_description: Allows to define coverage tthreshold for a module/packet
+site_description: Allows to define coverage threshold for a module/packet
 site_author: Dima Kruk
 
 theme: readthedocs
