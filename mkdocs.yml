@@ -1,0 +1,10 @@
+site_name: pytest-cov-threshold
+site_description: Allows to define coverage tthreshold for a module/packet
+site_author: Dima Kruk
+
+theme: readthedocs
+
+repo_url: https://github.com/krkd/pytest-cov-threshold
+
+pages:
+- Home: index.md
